@@ -4,7 +4,7 @@
 ### 👯 I’m looking to collaborate/work on software solutions that involve the advancement of the world using technologies (may include my personal projects)
 ### 💬 Ask me about football ⚽️, fashion 🧥, movies 📺, film making 🎬  or technology 📡
 ### 📫 How to reach me: ezeakudoluchinemerem@gmail.com 
-### ⚡ Fun fact: On my free time I am either working on a project that I won't finsh because I thought of a better app idea, or convincing my friends to watch a movie I love.
+### ⚡ Fun fact: In my free time I am either working on a project that I won't finsh because I thought of a better project idea, or convincing my friends to watch a movie I love.
 ### - 😄 Pronouns: He/Him
 
 ###
