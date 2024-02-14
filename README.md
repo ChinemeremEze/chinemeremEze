@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 👨🏾‍💻 I'm currently a Lead Software Developer at Crossroads Christian Communication Inc.
+### 👨🏾‍💻 I'm currently a Lead Software Developer (Full Stack) at Crossroads Christian Communication Inc.
 ### 🌱 I’m currently learning and improving my AI engineering skills (Creating AI models) specializing in healthcare/medicine
 ### 👯 I’m looking to collaborate/work on software solutions that involve the advancement of the world using technologies (may include my personal projects)
 ### 💬 Ask me about football ⚽️, fashion 🧥, movies 📺, film making 🎬  or technology 📡
