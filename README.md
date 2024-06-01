@@ -5,7 +5,7 @@
 ### 💬 Ask me about football ⚽️, fashion 🧥, movies 📺, film making 🎬  or technology 📡
 ### 📫 How to reach me: ezeakudoluchinemerem@gmail.com 
 ### ⚡ Fun fact: In my free time I am either working on a project that I won't finsh because I thought of a better project idea, or convincing my friends to watch a movie I love.
-### - 😄 Pronouns: He/Him
+### - Pronouns: He/Him
 
 ###
 
