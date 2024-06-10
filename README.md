@@ -1,11 +1,12 @@
 ### Hi there 👋
-### 👨🏾‍💻 I'm currently a Lead Software Developer (Full Stack) at Crossroads Christian Communication Inc.
-### 🌱 I’m currently learning and improving my AI engineering skills (Creating AI models) specializing in healthcare/medicine
+### Masters In Data Science Student
+### Lead Software Developer (Full Stack) at Crossroads Christian Communication Inc.
+### Advanced Diploma In Computer Science - Software Development
+### Numerous Computer Engineering Certifications 
+
 ### 👯 I’m looking to collaborate/work on software solutions that involve the advancement of the world using technologies (may include my personal projects)
 ### 💬 Ask me about football ⚽️, fashion 🧥, movies 📺, film making 🎬  or technology 📡
 ### 📫 How to reach me: ezeakudoluchinemerem@gmail.com 
-### ⚡ Fun fact: In my free time I am either working on a project that I won't finsh because I thought of a better project idea, or convincing my friends to watch a movie I love.
-### - Pronouns: He/Him
 
 ###
 
