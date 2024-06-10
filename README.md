@@ -1,6 +1,6 @@
 ### Hi there 👋
-### Masters In Data Science Student
 ### Lead Software Developer (Full Stack) at Crossroads Christian Communication Inc.
+### Masters In Data Science Student
 ### Advanced Diploma In Computer Science - Software Development
 ### Numerous Computer Engineering Certifications 
 
