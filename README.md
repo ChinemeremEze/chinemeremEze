@@ -13,7 +13,6 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,py,html,css,scss,tailwind,nextjs,git,gitlab,tensorflow,kubernetes,docker,c++,figma,firebase,jquery,aws,angular,mysql,postman,vue,wordpress,swift" />
   <br /><br />
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" alt="Snake animation" />
 </div>
 
 ###
