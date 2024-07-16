@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Lead Software Engineer (Full Stack) at Crossroads Christian Communication Inc.
 ### Masters In Data Science Student
-### Advanced Diploma In Computer Science - Software Development
+### Bachelors In Computer Science - Software Development
 ### Numerous Computer Engineering Certifications 
 
 ### 👯 I’m looking to collaborate/work on software solutions that involve the advancement of the world using technologies (may include my personal projects)
