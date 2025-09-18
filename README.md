@@ -1,11 +1,11 @@
 ### Hi there 👋
 ### Lead Software Engineer (Full Stack) at Crossroads Christian Communication Inc.
-### Masters In Data Science Student
+### Masters In Artificial Intelligence  Student
 ### Bachelors In Computer Science - Software Development
 ### Numerous Computer Engineering Certifications 
 
 ### 👯 I’m looking to collaborate/work on software solutions that involve the advancement of the world using technologies (may include my personal projects)
-### 💬 Ask me about football ⚽️, fashion 🧥, movies 📺, film making 🎬  or technology 📡
+### 💬 Ask me about football ⚽️, 🏀 , fashion 🧥, movies 📺, film making 🎬  or technology 📡
 ### 📫 How to reach me: ezeakudoluchinemerem@gmail.com 
 
 ###
